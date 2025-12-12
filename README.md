@@ -111,17 +111,6 @@ Responsive spacing for all screens
 
 Designed for keyboard and mouse input
 
-🛣️ Roadmap (Ideas)
-🔊 Sound effects & music
-
-🎨 Skins / themes
-
-🏆 High-score persistence
-
-🧩 Custom word packs
-
-🌐 Multiplayer / party mode
-
 📜 License
 MIT License — free to use, modify, and distribute.
 
